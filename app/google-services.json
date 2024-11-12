@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74038526710",
+    "project_id": "finceirocontrole",
+    "storage_bucket": "finceirocontrole.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74038526710:android:17ecaae9b785e3fdcee2d7",
+        "android_client_info": {
+          "package_name": "br.com.maeds.financeirocontrole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxnB6o-vgRjzemR3yZePNaWxM_Npsunk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
